@@ -1,4 +1,4 @@
-# DI-Introduccion-Programacion-C-
+# DI-Introduccion-Programacion-C-Sharp
 
 ## Curso introductorio de nivel intermedio a la programación en C#. 
 
