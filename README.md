@@ -4,7 +4,7 @@
 
 Los tutoriales están orientado a personas que ya saben programar, por lo que no se explican los conceptos básicos de programación.
 
-### Documentación C#:
+### Documentación:
 - Documentación oficial de [Microsoft](https://docs.microsoft.com/es-es/dotnet/csharp/)
 - Documentación [W3Schools](https://www.w3schools.com/cs/index.php)
 
