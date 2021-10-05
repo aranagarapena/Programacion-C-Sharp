@@ -1,0 +1,6 @@
+C:\Users\ulhi\Desktop\Consola\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\ulhi\Desktop\Consola\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\ulhi\Desktop\Consola\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\ulhi\Desktop\Consola\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\Desktop\Consola\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\ulhi\Desktop\Consola\Biblioteca\obj\Debug\Biblioteca.pdb
