@@ -6,8 +6,8 @@ Los tutoriales están orientado a personas que ya saben programar, por lo que no
 - Documentación oficial de [Microsoft](https://docs.microsoft.com/es-es/dotnet/csharp/)
 
 ## Vídeos Explicativos:
-- Lista de Reproduccion de YouTube con [vídeos realizados por mi]() 
-- Lista de Reproduccion de YouTube con [vídeos adicionales](https://youtube.com/playlist?list=PLiMesnCG0J7ywQbvFS4gBKriwkdYPQddu) sobre los temas que se tratan en el curso
+- Lista de Reproduccion de YouTube con [vídeos realizados por mi](https://www.youtube.com/playlist?list=PLiMesnCG0J7wJrnBnrzT93drjbIg1QnMm) 
+- Lista de Reproduccion de YouTube con [vídeos adicionales sobre Programación en C#](https://www.youtube.com/playlist?list=PLiMesnCG0J7ywQbvFS4gBKriwkdYPQddu) 
 
 ## Tutoriales
 - [W3Schools](https://www.w3schools.com/cs/index.php)
