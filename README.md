@@ -16,7 +16,7 @@ Los tutoriales están orientado a personas que ya saben programar, por lo que no
 - Lista de Reproduccion de YouTube con [vídeos adicionales sobre Arquitectura MVC](https://youtube.com/playlist?list=PLiMesnCG0J7zgZDd_BKe_vQxrn8iSWtIm) 
 
 ### 3. Plataforma GitHub
-- Lista de Reproduccion de YouTube con [vídeos realizados por mi](https://youtube.com/playlist?list=PLiMesnCG0J7w7XBW65g9vIEXjcIBfd6_P)sobre Github
+- Lista de Reproduccion de YouTube con [vídeos realizados por mi](https://youtube.com/playlist?list=PLiMesnCG0J7w7XBW65g9vIEXjcIBfd6_P) sobre Github
 
 
 ## Tutoriales
