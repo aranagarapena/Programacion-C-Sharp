@@ -6,8 +6,18 @@ Los tutoriales están orientado a personas que ya saben programar, por lo que no
 - Documentación oficial de [Microsoft](https://docs.microsoft.com/es-es/dotnet/csharp/)
 
 ## Vídeos Explicativos:
+
+###  1. Curso de Programación
 - Lista de Reproduccion de YouTube con [vídeos realizados por mi](https://www.youtube.com/playlist?list=PLiMesnCG0J7wJrnBnrzT93drjbIg1QnMm) 
 - Lista de Reproduccion de YouTube con [vídeos adicionales sobre Programación en C#](https://www.youtube.com/playlist?list=PLiMesnCG0J7ywQbvFS4gBKriwkdYPQddu) 
+
+### 2. Arquitectura MVC para aplicaciones de Escritorio
+- Lista de Reproduccion de YouTube con [vídeos realizados por mi](https://youtube.com/playlist?list=PLiMesnCG0J7wD9MVHf7GOfRbqdQso5zIN) 
+- Lista de Reproduccion de YouTube con [vídeos adicionales sobre Arquitectura MVC](https://youtube.com/playlist?list=PLiMesnCG0J7zgZDd_BKe_vQxrn8iSWtIm) 
+
+### 3. Plataforma GitHub
+- Lista de Reproduccion de YouTube con [vídeos realizados por mi](https://youtube.com/playlist?list=PLiMesnCG0J7w7XBW65g9vIEXjcIBfd6_P)sobre Github
+
 
 ## Tutoriales
 - [W3Schools](https://www.w3schools.com/cs/index.php)
